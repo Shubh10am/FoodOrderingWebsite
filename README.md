@@ -6,6 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+In Order To Clone This Food Ordering Website
+Clone The Repo And Open The Terminal And Write..
+
+### `npm install`
+
+Then After
+
+### `npm start`
+
 ### `yarn start`
 
 Runs the app in the development mode.\
